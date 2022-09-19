@@ -1,1 +1,1 @@
-# google-homepage-clone
+Google homepage clone demo for Patika.dev
